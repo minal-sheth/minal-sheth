@@ -8,11 +8,10 @@
 
 - 🌱 I’m currently learning - *Deep learning, NLP, Computer Vision.*
 
-- :zap: I love math, programming, data science, and books
+- :zap: I love solving problems, applying theoretical learnings to practical use.
 
 - 🌱 I’m addicted to learning and growing every day
 
-- 👯 I’m Having Internship with  companies like - *  jpl as Campus Representative*
 
 - 📫 How to reach me :
       - **Minal.S23pgai@jioinstitute.edu.in**
