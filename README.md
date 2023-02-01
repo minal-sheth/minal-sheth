@@ -16,9 +16,19 @@
 - 📫 How to reach me :
       - **Minal.S23pgai@jioinstitute.edu.in**
       - **Minalsheth1997@gmail.com**
-      - :office: [LinkedIn](https://www.linkedin.com/in/minal-sheth-a7b290170/)
+      - :office: [LinkedIn](https://www.linkedin.com/in/minal-sheth)
 
-- 😄 Words that describe me - **
+- 😄 Words that describe me - 
+*Articulate
+Organized
+Confident
+Flexible
+Collaborative
+Proactive
+Dynamic
+Efficient
+Influential
+Leader*
 
 
 <br>
