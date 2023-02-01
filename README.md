@@ -19,16 +19,25 @@
       - :office: [LinkedIn](https://www.linkedin.com/in/minal-sheth)
 
 - 😄 Words that describe me - 
-*Articulate
-Organized
-Confident
-Flexible
-Collaborative
-Proactive
-Dynamic
-Efficient
-Influential
-Leader*
+*-Articulate
+
+-Organized
+
+-Confident
+
+-Flexible
+
+-Collaborative
+
+-Proactive
+
+-Dynamic
+
+-Efficient
+
+-Influential
+
+-Leader*
 
 
 <br>
