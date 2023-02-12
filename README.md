@@ -34,5 +34,5 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitttiwari&label=Profile%20views&color=0e75b6&style=flat" alt="arpitttiwari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minal-sheth&label=Profile%20views&color=0e75b6&style=flat" alt="minal-sheth" /> </p>
 
