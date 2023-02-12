@@ -26,19 +26,11 @@
      -Proactive
      -Efficient
      -Leader*
-
-
-<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<br>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/minal-sheth/](https://www.linkedin.com/in/minal-sheth/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/minal-sheth/](https://www.linkedin.com/in/minal-sheth/)" height="30" width="40" /></a>
-<a href="[https://medium.com/minal-sheth](https://medium.com/@studyminal)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="minal-sheth" height="30" width="40" /></a>
-<a href="[/https://www.linkedin.com/in/minal-sheth/](https://medium.com/@studyminal)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.linkedin.com/in/minal-sheth/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/minal-sheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minal-sheth" height="30" width="40" /></a>
+<a href="https://medium.com/@studyminal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="minal-sheth" height="30" width="40" /></a>
+<a href="https://medium.com/@studyminal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="minal-sheth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
