@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as an intern at JPL(Jio Platforms Limited) in Retail domain
 
-- 🌱 I’m currently learning - *Machine Learning, Data Vizualization*
+- 🌱 I’m currently learning - *Machine Learning, Data Vizualization, Responsible and Ethical AI*
 
 - :zap: I love solving problems, applying theoretical learnings to practical use.
 
@@ -34,5 +34,5 @@
 <br>
 <br>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitttiwari&label=Profile%20views&color=0e75b6&style=flat" alt="arpitttiwari" /> </p>
 
