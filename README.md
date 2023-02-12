@@ -34,4 +34,12 @@
 <br>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minal-sheth" alt="minal-sheth" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/arpitttiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="minal-sheth" height="30" width="40" /></a>
+<a href="https://twitter.com/blackxstallion_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackxstallion_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/minal-sheth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minal-sheth/" height="30" width="40" /></a>
+<a href="https://medium.com/minal-sheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpittiwari757" height="30" width="40" /></a>
+<a href="/https://www.linkedin.com/in/iamarpittiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.linkedin.com/in/minal-sheth/" height="30" width="40" /></a>
+</p>
+
