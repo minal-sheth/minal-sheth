@@ -2,11 +2,11 @@
 <img alt="coding" width="1000px" height="400px" src="https://github.com/minal-sheth/minal-sheth/blob/main/image_processing20191213-6403-1j99nlm.gif">
 
 <h4>Aspiring Data Scientist  |  Machine Learning Enthusiast </h4>
-<h4 align="Left">I am a Artificial Intelligence and Data Science students at </h4>
+<h4 align="Left">I am an Artificial Intelligence and Data Science students at Jio Institute </h4>
 
 - 🔭 I’m currently working as an intern at JPL(Jio Platforms Limited) in Retail domain
 
-- 🌱 I’m currently learning - *Deep learning, NLP, Computer Vision.*
+- 🌱 I’m currently learning - *Machine Learning, Data Vizualization*
 
 - :zap: I love solving problems, applying theoretical learnings to practical use.
 
@@ -22,22 +22,16 @@
      -Articulate
      -Organized
      -Confident
-     -Flexible
      -Collaborative
      -Proactive
-     -Dynamic
      -Efficient
-     -Influential
      -Leader*
 
 
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png"></code>
 <br>
 <br>
 
