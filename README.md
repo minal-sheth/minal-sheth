@@ -31,11 +31,8 @@
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png](https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png)"></code>
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minal-sheth&show_icons=true&locale=en&layout=compact" alt="minal-sheth" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minal-sheth&show_icons=true&locale=en" alt="minal-sheth" /></p>
 
 
