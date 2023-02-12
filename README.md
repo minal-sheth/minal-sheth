@@ -1,8 +1,8 @@
-### Hi there, Welcome to my page 👋
+### Embarking on a Mission to Empower Change through Data Science 🚀
+<img alt="coding" width="1000px" height="500px" src="https://github.com/minal-sheth/minal-sheth/blob/main/image_processing20191213-6403-1j99nlm.gif">
 
 <h4>Aspiring Data Scientist  |  Machine Learning Enthusiast </h4>
 <h4 align="Left">I am a Artificial Intelligence and Data Science students at </h4>
-<img align="right" alt="coding" width="400px" height="200px" src="https://github.com/minal-sheth/minal-sheth/blob/main/image_processing20191213-6403-1j99nlm.gif">
 
 - 🔭 I’m currently working as an intern at JPL(Jio Platforms Limited) in Retail domain
 
