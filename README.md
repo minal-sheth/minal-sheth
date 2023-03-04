@@ -1,7 +1,7 @@
 ### Embarking on a Mission to Empower Change through Data Science 🚀
 <img alt="coding" width="1000px" height="400px" src="https://github.com/minal-sheth/minal-sheth/blob/main/image_processing20191213-6403-1j99nlm.gif">
 
-<h4>Aspiring Data Scientist  |  Machine Learning Enthusiast </h4>
+<h4>Tech Enthusiast </h4>
 <h4 align="Left">I am an Artificial Intelligence and Data Science students at Jio Institute </h4>
 
 - 🔭 I’m currently working as an intern at JPL(Jio Platforms Limited) in Retail domain
