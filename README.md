@@ -18,14 +18,14 @@
       - **Minalsheth1997@gmail.com**
       - :office: [LinkedIn](https://www.linkedin.com/in/minal-sheth)
 
-- 😄 Words that describe me - 
+- 😄 Words that describe me 
      -Articulate
      -Organized
      -Confident
      -Collaborative
      -Proactive
      -Efficient
-     -Leader*
+     -Leader
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/minal-sheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minal-sheth" height="30" width="40" /></a>
