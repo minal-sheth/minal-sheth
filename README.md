@@ -2,11 +2,9 @@
 <img alt="coding" width="1000px" height="400px" src="https://github.com/minal-sheth/minal-sheth/blob/main/image_processing20191213-6403-1j99nlm.gif">
 
 <h4>Tech Enthusiast </h4>
-<h4 align="Left">I am an Artificial Intelligence and Data Science students at Jio Institute </h4>
+<h4 align="Left">I am a Data Analyst at Jio Cinema </h4>
 
-- 🔭 I’m currently working as an intern at JPL(Jio Platforms Limited) in Retail domain
-
-- 🌱 I’m currently learning - *Machine Learning, Data Vizualization, Responsible and Ethical AI*
+- 🔭 I’m curious about - *Machine Learning, Data Vizualization, Responsible and Ethical AI*
 
 - :zap: I love solving problems, applying theoretical learnings to practical use.
 
@@ -14,7 +12,6 @@
 
 
 - 📫 How to reach me :
-      - **Minal.S23pgai@jioinstitute.edu.in**
       - **Minalsheth1997@gmail.com**
       - :office: [LinkedIn](https://www.linkedin.com/in/minal-sheth)
 
